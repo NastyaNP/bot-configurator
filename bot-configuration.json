@@ -1,0 +1,23 @@
+[
+  {
+    "id": "9b469525-4857-433e-a52d-bb36e8beff84",
+    "caption": "Cloud",
+    "btn_elements": []
+  },
+  {
+    "id": "e2fafa5f-6d16-4354-924f-b7fb35058efd",
+    "caption": "КС АРМГС",
+    "btn_elements": [
+      {
+        "id": "e67c7cc7-ab97-4d44-8656-913936556116",
+        "caption": "Переход",
+        "src": "9b469525-4857-433e-a52d-bb36e8beff84",
+        "type": "menu_e67c7cc7-ab97-4d44-8656-913936556116"
+      }
+    ]
+  },
+  {
+    "TOKEN": "afajsjgasgajs9239852386283682",
+    "JSON_NAME": "КС АРМГС"
+  }
+]
