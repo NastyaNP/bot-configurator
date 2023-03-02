@@ -1,23 +1,21 @@
 [
   {
-    "id": "9b469525-4857-433e-a52d-bb36e8beff84",
-    "caption": "Cloud",
-    "btn_elements": []
-  },
-  {
-    "id": "e2fafa5f-6d16-4354-924f-b7fb35058efd",
+    "id": "15990332-feae-4c07-8f26-011e83ffdfa7",
     "caption": "КС АРМГС",
     "btn_elements": [
       {
-        "id": "e67c7cc7-ab97-4d44-8656-913936556116",
-        "caption": "Переход",
-        "src": "9b469525-4857-433e-a52d-bb36e8beff84",
-        "type": "menu_e67c7cc7-ab97-4d44-8656-913936556116"
+        "id": "14180dd0-5b01-4369-bf42-ce06901995bf",
+        "caption": "123",
+        "src": "123",
+        "type": "mail_14180dd0-5b01-4369-bf42-ce06901995bf",
+        "sender": "123",
+        "password": "123",
+        "server_and_port": "123:123"
       }
     ]
   },
   {
-    "TOKEN": "afajsjgasgajs9239852386283682",
+    "TOKEN": "123",
     "JSON_NAME": "КС АРМГС"
   }
 ]
