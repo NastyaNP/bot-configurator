@@ -16,7 +16,7 @@ app.post('/download-json', (req, res) => {
             res.status(500).send({ message: 'Что-то пошло не так' });
             return;
         }
-        const file = path.resolve(".", "bot-configuration.json");А
+        const file = path.resolve(".", "bot-configuration.json");
         res.download(file);
     });
 });

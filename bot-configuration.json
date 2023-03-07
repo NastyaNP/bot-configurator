@@ -1,21 +1,11 @@
 [
   {
-    "id": "15990332-feae-4c07-8f26-011e83ffdfa7",
-    "caption": "КС АРМГС",
-    "btn_elements": [
-      {
-        "id": "14180dd0-5b01-4369-bf42-ce06901995bf",
-        "caption": "123",
-        "src": "123",
-        "type": "mail_14180dd0-5b01-4369-bf42-ce06901995bf",
-        "sender": "123",
-        "password": "123",
-        "server_and_port": "123:123"
-      }
-    ]
+    "id": "d75e9293-9d3d-451e-a1ed-2c21ade18e91",
+    "caption": "123",
+    "btn_elements": []
   },
   {
-    "TOKEN": "123",
+    "TOKEN": "1234",
     "JSON_NAME": "КС АРМГС"
   }
 ]
