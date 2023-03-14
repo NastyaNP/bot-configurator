@@ -1,0 +1,13 @@
+@mixin font-regular-size-height($font-size, $line-height) {
+    font-style: normal;
+    font-weight: normal;
+    font-size: $font-size;
+    line-height: $line-height;
+}
+
+@mixin font-semi-bold-size-height($font-size, $line-height) {
+    font-style: normal;
+    font-weight: 600;
+    font-size: $font-size;
+    line-height: $line-height;
+}
